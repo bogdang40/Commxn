@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Commxn</h1>
-      <h2>Bogdan</h2>
+      <h2>Bogdan1</h2>
       <img src={profileimage} alt="profile-image" />
 
     </div>
